@@ -1,0 +1,11 @@
+#raven {
+    bottom: 0;
+    position:fixed;
+    background-color: aqua;
+    color: black;
+
+}
+canvas {
+    border: 10px  solid plum ;
+    box-shadow: 5px 5px 5px blueviolet;
+}
